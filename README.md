@@ -11,14 +11,12 @@
 </p>
 
 ## :open_book: Sobre
-Este repositório contêm um menu suspenso para acessar opções da conta do usuario
-
+Este repositório contêm um menu suspenso para acessar opções da conta do usuário
 
 ## :hammer: Tecnologias
 Este projeto foi feito com as seguintes tecnologias:
 - HTML5
 - CSS3
-- JavaScript
 
 ## :rocket: Resultado
 
